@@ -25,6 +25,21 @@ export class App extends React.Component {
                     place: "Marina",
                     date: "2020-02-09",
                     type: "Tropic"
+                },
+                {
+                    place: "Kush Mountain",
+                    date: "2020-01-01",
+                    type: "Trek"
+                },
+                {
+                    place: "Pune",
+                    date: "2020-04-05",
+                    type: "Club"
+                },
+                {
+                    place: "Kokan",
+                    date: "2020-02-09",
+                    type: "Tropic"
                 }
             ]
         }
